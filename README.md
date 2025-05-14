@@ -59,4 +59,4 @@ npm run dev
 
 ##  Author
 
-[Yogeshwaran](https://github.com/yogeshwaran6414)
+[Yogeshwaran K](https://github.com/yogeshwaran6414)
